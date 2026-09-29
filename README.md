@@ -77,7 +77,6 @@ The baseline signal provides a reference for the background electrical noise, wh
 | :---: | :---: | :---: | :---: |
 | ![Baseline](Pulse%20Waveform%20Showcase/baseline_1.bmp) | ![Electronic](Pulse%20Waveform%20Showcase/EDM_2.bmp) | ![Country](Pulse%20Waveform%20Showcase/country_1.bmp) | ![Piano](Pulse%20Waveform%20Showcase/piano_4.bmp) |
 
-*(Note: Ensure your `.bmp` files are placed inside an `images/` folder in the root repository).*
 
 ---
 
