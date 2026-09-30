@@ -30,14 +30,7 @@ Among the five models, Random Forest achieved the highest mean Macro F1 score of
 
 ## Sensor Fabrication
 
-The sensors were fabricated using a flexible **Ecoflex substrate**.
-
-The main fabrication steps were:
-
-1. Prepare the Ecoflex base.
-2. Add the liquid-metal electrode/bar to the Ecoflex.
-3. Soak the device in a solution containing `H2SO4`, `Zn(NO3)2·6H2O`, and `H2O`.
-4. Leave the device in the solution for approximately **6 hours**.
+The sensors were fabricated by using a flexible Ecoflex substrate, a liquid-metal electrode and a chemical treatment process involving H2SO4, Zn(NO3)2·6H2O, and H2O.
 
 A total of **35 sensors** were fabricated, and **3 produced stable enough responses** for the music experiments.
 
