@@ -2,13 +2,13 @@
 
 ## Background
 
-This project comes from my undergraduate research in the FLEX Lab at Purdue University, where I fabricated piezoelectric sensors and used them to measure and analyze my own pulse signals.
+This project comes from my undergraduate research in the FLEX Lab at Purdue University, where I fabricated piezoelectric sensors and used them to measure and analyze electrical pulse signals.
 
-The main question I wanted to explore was:
+The main question I wanted to explore is:
 
-Can changes in my pulse while listening to music be used to identify what kind of music I am listening to?
+**Can changes in my pulse while listening to music be used to identify what kind of music I'm listening to?**
 
-To test this, I recorded my pulse while listening to different songs and used the collected pulse waveforms to build a music classification model.
+To test this, I recorded pulse while listening to different songs and used the collected pulse waveforms to build a music classification model.
 
 The model does not analyze the music audio directly. Instead, it reads the pulse signal measured by the piezoelectric sensor and looks for patterns in pulse rate, waveform shape, amplitude, and frequency-related features that may be associated with different music genres.
 
