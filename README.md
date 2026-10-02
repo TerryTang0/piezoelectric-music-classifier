@@ -32,7 +32,7 @@ Among the five models, Random Forest achieved the highest mean Macro F1 score of
 
 The sensors were fabricated by using a flexible Ecoflex substrate, a liquid-metal electrode and a chemical treatment process involving H2SO4, Zn(NO3)2·6H2O, and H2O.
 
-A total of **35 sensors** were fabricated, and **3 produced stable enough responses** for the music experiments.
+A total of **35 sensors** were fabricated, and **3 produced stable and significant responses** for the pulse experiments.
 
 ---
 
